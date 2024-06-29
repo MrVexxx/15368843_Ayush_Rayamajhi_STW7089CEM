@@ -1,0 +1,1 @@
+Please find the dataset and R code for the coursework of Introduction to Statistical Methods for Data Science in this repo.
